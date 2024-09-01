@@ -1,4 +1,5 @@
 # weather-app
+<<<<<<< HEAD
 a simple wheather app
 # Weather App
 
@@ -15,3 +16,6 @@ A simple weather app built with HTML, CSS, and JavaScript. It fetches real-time 
    ```bash
    git clone https://github.com/Navaneetha-/weather-app.git
 
+=======
+a simple weather app
+>>>>>>> origin/main
